@@ -7,6 +7,8 @@ A new Substrate node, ready for hacking. This node includes:
 * Aura block authoring
 * Grandpa finality gadget
 
+PoC for chain-x
+
 ## Build
 
 Install Rust:
